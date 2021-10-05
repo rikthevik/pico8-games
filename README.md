@@ -1,6 +1,9 @@
 
 # pico-8 games!
 
+Public profile at
+  https://www.lexaloffle.com/bbs/?uid=9709
+
 ## pico8-tetris
 In 2015 I wrote Tetris for the pico-8 fantasy console
 right in the pico-8 UI, which wasn't that easy.  :)
